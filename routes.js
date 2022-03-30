@@ -2,7 +2,7 @@
  * Main routes file
  */
 
-const helloWorld = require('./api/helloWorld');
+const healthcheck = require('./api/healthcheck');
 const tasks = require('./api/tasks');
 const user= require('./api/user');
 const authLocal = require('./auth/local');
