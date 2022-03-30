@@ -10,10 +10,10 @@
   "author": "Norbey",
   "license": "MIT",
   "devDependencies": {
-    "morgan": "^1.10.0",
     "nodemon": "^2.0.15"
   },
   "dependencies": {
+    "morgan": "^1.10.0",
     "bcrypt": "^5.0.1",
     "composable-middleware": "^0.3.0",
     "dotenv": "^16.0.0",
