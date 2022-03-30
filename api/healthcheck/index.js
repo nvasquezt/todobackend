@@ -1,6 +1,6 @@
 const { Router } = require('express');
 
-const { index } = require('./helloWorld.controller');
+const { index } = require('./healthcheck.controller');
 
 const router = Router();
 
